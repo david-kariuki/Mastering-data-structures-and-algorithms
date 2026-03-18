@@ -1,7 +1,7 @@
 package dk.learning.arrays.single_dimensional;
 
 /**
- * Main cass to test TwoDimensionalArray class.
+ * Main cass to test SingleDimensionalArray class.
  */
 public class Main {
 
