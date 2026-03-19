@@ -39,8 +39,8 @@ This repository will evolve into a comprehensive DSA reference for Java develope
 
 ### Clone the project
 ```Bash
-git clone https://github.com/yourusername/elshad-karimov-master-dsa-java.git
-cd elshad-karimov-master-dsa-java
+git clone git@github.com:david-kariuki/mastering-data-structures-and-algorithms.git
+cd Mastering-data-structures-and-algorithms
 ```
 
 ### Build and run
@@ -59,7 +59,6 @@ In settings.gradle:
 include("modules:arrays")
 ```
 Then create `modules/arrays/build.gradle` and start coding your first data structure.
-
 
 
 <br>
