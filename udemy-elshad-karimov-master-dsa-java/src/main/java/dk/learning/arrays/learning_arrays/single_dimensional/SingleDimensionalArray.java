@@ -1,4 +1,4 @@
-package dk.learning.arrays.single_dimensional;
+package dk.learning.arrays.learning_arrays.single_dimensional;
 
 public class SingleDimensionalArray {
 
