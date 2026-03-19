@@ -1,16 +1,16 @@
-# Compiled class files
+# Compiled class file
 *.class
 
-# Logs
+# Log file
 *.log
 
 # BlueJ files
 *.ctxt
 
-# Mobile Tools for Java
+# Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package files
+# Package Files
 *.jar
 *.war
 *.nar
@@ -25,31 +25,6 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !gradle/wrapper/gradle-wrapper.properties
 
-# Gradle GUI config
-gradle-app.setting
-
-# Gradle task cache
-.gradletasknamecache
-
-# JVM crash logs
+# Virtual machine crash logs
 hs_err_pid*
 replay_pid*
-
-# IntelliJ
-.idea/
-*.iml
-
-# VS Code
-.vscode/
-
-# Mac
-.DS_Store
-
-# Eclipse
-.project
-.classpath
-.settings/
-bin/
-
-# Output folders
-out/
