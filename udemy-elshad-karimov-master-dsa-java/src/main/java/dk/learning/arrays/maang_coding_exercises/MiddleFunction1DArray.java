@@ -9,6 +9,8 @@ import java.util.Arrays;
  * </>myArray = [1, 2, 3, 4]
  * middle(myArray)  # [2,3]
  * </p>
+ *
+ * @author David Kariuki
  */
 public class MiddleFunction1DArray {
 
