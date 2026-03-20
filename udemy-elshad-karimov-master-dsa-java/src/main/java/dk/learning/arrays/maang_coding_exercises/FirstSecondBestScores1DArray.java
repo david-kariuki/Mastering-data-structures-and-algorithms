@@ -64,20 +64,19 @@ public class FirstSecondBestScores1DArray {
         int firstHighest = Integer.MIN_VALUE; // ------------- O(1)
         int secondHighest = Integer.MIN_VALUE; // ------------- O(1)
 
-        for (int i = 0; i < array.length; i++) { // ------------- O(n)
+        for (int value : array) { // ------------- O(n)
 
-            if (array[i] >= firstHighest) { // ------------- O(1)
-                firstHighest = array[i]; // ------------- O(1)
+            if (value >= firstHighest) { // ------------- O(1)
+                firstHighest = value; // ------------- O(1)
             }
         }
 
-        for (int i = 0; i < array.length; i++) { // ------------- O(n)
-            if (array[i] >= secondHighest && array[i] < firstHighest) { // ------------- O(1)
-                secondHighest = array[i]; // ------------- O(1)
+        for (int value : array) { // ------------- O(n)
+            if (value >= secondHighest && value < firstHighest) { // ------------- O(1)
+                secondHighest = value; // ------------- O(1)
             }
         }
 
         return new int[]{firstHighest, secondHighest}; // ------------- O(1)
     }
-
 }
