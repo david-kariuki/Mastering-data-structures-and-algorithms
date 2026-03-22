@@ -1,4 +1,4 @@
-package dk.learning.easy;
+package dk.learning;
 
 /**
  * Valid Palindrome

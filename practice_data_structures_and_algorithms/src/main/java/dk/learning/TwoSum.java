@@ -1,4 +1,4 @@
-package dk.learning.easy;
+package dk.learning;
 
 import java.util.Arrays;
 import java.util.HashMap;
