@@ -1,4 +1,4 @@
-package easy;
+package dk.learning.easy;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -46,8 +46,8 @@ public class TwoSum {
 
         int[] nums2 = new int[]{3, 2, 4};  // 6
         int target2 = 6;
-        System.out.print("Array : " + Arrays.toString(nums1) + " , Target -> " + target1);
-        System.out.println("\n Result -> " + Arrays.toString(twoSum(nums1, target1)));
+        System.out.print("Array : " + Arrays.toString(nums2) + " , Target -> " + target2);
+        System.out.println("\n Result -> " + Arrays.toString(twoSum(nums2, target2)));
         System.out.println();
 
     }
