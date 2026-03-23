@@ -11,19 +11,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/learn-dsa" />
             <option value="$PROJECT_DIR$/practice-dsa" />
-            <option value="$PROJECT_DIR$/practice_data_structures_and_algorithms" />
           </set>
         </option>
       </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/elshad-karimov-master-dsa-java" />
-        <option name="gradleHome" value="" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/elshad-karimov-master-dsa-java" />
-          </set>
-        </option>
-      </GradleProjectSettings>
+
     </option>
   </component>
 </project>
