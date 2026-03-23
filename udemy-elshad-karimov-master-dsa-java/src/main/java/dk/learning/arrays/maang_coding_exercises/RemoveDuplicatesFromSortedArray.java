@@ -40,9 +40,9 @@ public class RemoveDuplicatesFromSortedArray {
 
         int index = 0; // ---------------- O(1)
         for (int i = index + 1; i < array.length; i++) {    // ---------------- O(n)
-            if (array[i] != array[index]) {                 // -------------- O(1)
+            if (array[i] == array[index]) {                 // -------------- O(1)
+                array[i] = array[index];                    // -------------- O(1)
                 index++;                                    // ---------------- O(1)
-                array[index] = array[i];                    // -------------- O(1)
             }
         }
 
