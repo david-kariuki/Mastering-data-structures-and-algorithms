@@ -9,8 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/learn-dsa" />
             <option value="$PROJECT_DIR$/practice_data_structures_and_algorithms" />
-            <option value="$PROJECT_DIR$/udemy-elshad-karimov-master-dsa-java" />
           </set>
         </option>
       </GradleProjectSettings>
