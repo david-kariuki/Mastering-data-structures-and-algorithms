@@ -1,4 +1,4 @@
-package dk.learning.searching.binary_search;
+package dk.learning.binary_search;
 
 /**
  * Find Minimum in Rotated Sorted Array
