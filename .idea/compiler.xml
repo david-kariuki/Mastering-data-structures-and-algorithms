@@ -3,6 +3,10 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="elshad-karimov-master-dsa-java-udemy" target="24" />
+      <module name="mastering-data-structures-and-algorithms.learning-dsa" target="17" />
+      <module name="mastering-data-structures-and-algorithms.udemy-elshad-karimov-master-dsa-java" target="17" />
+      <module name="mastering-data-structures-and-algorithms.udemy-elshad-karimov-master-dsa-java.main" target="17" />
+      <module name="mastering-data-structures-and-algorithms.udemy-elshad-karimov-master-dsa-java.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
