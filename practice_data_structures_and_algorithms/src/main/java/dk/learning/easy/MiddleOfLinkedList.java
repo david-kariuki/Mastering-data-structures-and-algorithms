@@ -1,4 +1,4 @@
-package dk.learning;
+package dk.learning.easy;
 
 /**
  * Middle of a Linked List
