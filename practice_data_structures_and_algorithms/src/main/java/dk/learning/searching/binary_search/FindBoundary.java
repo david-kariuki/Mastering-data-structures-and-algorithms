@@ -1,4 +1,4 @@
-package dk.learning.binary_search;
+package dk.learning.searching.binary_search;
 
 /**
  * Find Boundary (First True in Boolean Array)
