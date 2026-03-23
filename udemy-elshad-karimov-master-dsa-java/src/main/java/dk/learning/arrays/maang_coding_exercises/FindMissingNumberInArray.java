@@ -13,8 +13,6 @@ package dk.learning.arrays.maang_coding_exercises;
  * <p>
  * Hint: Use the formula (n * (n + 1)) / 2 which  calculates the sum of the first n natural numbers.
  * </p>
- *
- * @author David Kariuki
  */
 public class FindMissingNumberInArray {
 

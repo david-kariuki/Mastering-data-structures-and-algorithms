@@ -13,10 +13,8 @@ import java.util.Set;
  * removeDuplicates({1, 1, 2, 2, 3, 4, 5})
  * Output : [1, 2, 3, 4, 5]
  * </p>
- *
- * @author David Kariuki
  */
-public class RemoveDuplicatesAndReturnUniqueArray {
+public class RemoveDuplicatesInArray {
 
     public static void main(String[] args) {
 

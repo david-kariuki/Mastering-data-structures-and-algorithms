@@ -7,8 +7,6 @@ package dk.learning.arrays.maang_coding_exercises;
  * myArray2D= {{1,2,3},{4,5,6},{7,8,9}};
  * sumDiagonalElements(myArray2D) # 15
  * </p>
- *
- * @author David Kariuki
  */
 public class SumOfDiagonalElementsOf2DArray {
 
